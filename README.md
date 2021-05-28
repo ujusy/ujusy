@@ -18,6 +18,9 @@ Here are some ideas to get you started:
   
 </div>
 
+✍️블로그로 놀러오세요✍️
+https://uju-tech.tistory.com/
+
 
 ![ujusy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujusy&count_private=true)
 
